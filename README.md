@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Neo Tan — Senior Full-Stack Developer &amp; AWS Solutions Architect" width="100%" />
+<img src="https://raw.githubusercontent.com/neotan/neotan/main/assets/banner.svg" alt="Neo Tan — Senior Full-Stack Developer &amp; AWS Solutions Architect" width="100%" />
 
 <br/>
 
