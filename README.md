@@ -7,7 +7,6 @@
 [![Website](https://img.shields.io/badge/neotan.me-07060b?style=for-the-badge&logo=google-chrome&logoColor=fbbf24)](https://neotan.me)
 [![AWS SAP](https://img.shields.io/badge/AWS%20SAP%20Certified-Professional-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/810942a7-c85b-48bc-add9-0f433d3f243a/public_url)
 [![AWS AIP](https://img.shields.io/badge/AWS%20AI%20Practitioner-Foundational-232f3e?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/aaebc2e4-1d19-4c9d-9ccc-84b6dbd91d47/public_url)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neo%20Tan-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neo-tan/)
 [![Location](https://img.shields.io/badge/Location-Canada%20%F0%9F%87%A8%F0%9F%87%A6-07060b?style=for-the-badge)](https://neotan.me)
 
 </div>
@@ -60,17 +59,16 @@ Fintech & Defense │ Stripe API & Radar Dynamic 3DS Risk Controls, Cloudflare R
 
 ### 📝 Featured Engineering Insights
 
-* 🛡️ **[出海开发者的防测卡与反盗刷实战：Cloudflare WAF 与 Stripe Radar 双层防御配置指南](https://neotan.me)**  
-  *深入复盘海外支付风控实战：边缘层阻断高频撞库并发，支付层通过 3DS 责任转移彻底归零恶意争议与罚金。*
+* 🛡️ **[Anti-Card-Testing & Fraud Defense: A Dual-Layer Blueprint with Cloudflare WAF & Stripe Radar](https://neotan.me)**  
+  *A production post-mortem on fintech fraud prevention: blocking automated card-testing scripts at Cloudflare's edge, and shifting dispute liability to issuing banks via Stripe Radar dynamic 3DS rules.*
 
 ---
 
 ### 📬 Connect With Me
 
 * 🌍 **Website**: [neotan.me](https://neotan.me)
-* 💼 **LinkedIn**: [linkedin.com/in/neo-tan](https://www.linkedin.com/in/neo-tan/)
 * 📜 **AWS Verification**: [Credly Profile](https://www.credly.com/badges/810942a7-c85b-48bc-add9-0f433d3f243a/public_url)
-* ✉️ **Email**: Available via [neotan.me](https://neotan.me)
+* ✉️ **Contact**: Available via [neotan.me](https://neotan.me)
 
 <br/>
 
