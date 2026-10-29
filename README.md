@@ -27,7 +27,7 @@ I bridge enterprise-grade cloud architecture with fast-moving indie product engi
 
 ### 🚀 Featured Products & Commercial SaaS
 
-#### ✍️ [Un-AI Text](https://un-ai-text.com) — *Anti-Cliché AI Humanizer & Detection Bypass*
+#### <img src="https://raw.githubusercontent.com/neotan/neotan/main/assets/un-ai-text-icon.svg" alt="Un-AI Text" width="22" height="22" align="center" style="vertical-align: middle; border-radius: 5px; margin-right: 6px;" /> [Un-AI Text](https://un-ai-text.com) — *Anti-Cliché AI Humanizer & Detection Bypass*
 > An intelligent prose humanizer that rewrites mechanical, formulaic AI drafts into lively, authentic human writing. Systematically eliminates overused clichés (*delve*, *tapestry*, *testament*, *moreover*), calibrates sentence burstiness, and passes AI detectors with natural flow.
 * **Tech Stack**: TanStack Start · React 19 · TypeScript · Tailwind CSS · Cloudflare Workers
 * **Live Platform**: [https://un-ai-text.com ↗](https://un-ai-text.com)
